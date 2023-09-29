@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vitinbacana hii
 - 👀 I’m interested in ... ttk
-- 🌱 I’m currently learning ...yess
-- 💞️ I’m looking to collaborate on ...yess
+- 🌱 I’m currently learning ...técnologia
+- 💞️ I’m looking to collaborate on ...técnologia
+- 
 - 📫 How to reach me ...
 
 <!---
